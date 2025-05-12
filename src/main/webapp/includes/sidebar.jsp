@@ -6,7 +6,7 @@
     <div class="sidebar-sticky">
         <!-- Logo -->
         <div class="sidebar-logo">
-            <img src="${pageContext.request.contextPath}/assets/img/EscudoCDO.png" alt="Escudo CDO">
+            <img src="../assets/img/EscudoCDO.png" alt="Escudo CDO">
             <h5>Colegio Peruano Chino<br>Diez de Octubre</h5>
         </div>
         

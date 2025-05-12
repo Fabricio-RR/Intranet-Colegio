@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
-<%@ include file="/includes/sidebar.jsp" %>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -14,24 +14,14 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Sidebar -->
-            <jsp:include page="/includes/sidebar.jsp" />
+            
             
             <!-- Main content -->
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
                 <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
                     <h1 class="h2">Dashboard</h1>
                     <div class="btn-toolbar mb-2 mb-md-0">
-                        <div class="btn-group me-2">
-                            <button type="button" class="btn btn-sm btn-outline-secondary">
-                                <i class="bi bi-share"></i> Compartir
-                            </button>
-                            <button type="button" class="btn btn-sm btn-outline-secondary">
-                                <i class="bi bi-download"></i> Exportar
-                            </button>
-                        </div>
-                        <button type="button" class="btn btn-sm btn-outline-secondary dropdown-toggle">
-                            <i class="bi bi-calendar3"></i> Esta semana
-                        </button>
+                        
                     </div>
                 </div>
                 
@@ -61,18 +51,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-md-3 mb-4">
-                        <div class="dashboard-widget">
-                            <div class="dashboard-widget-icon">
-                                <i class="bi bi-file-earmark-text"></i>
-                            </div>
-                            <div class="dashboard-widget-title">Tareas Pendientes</div>
-                            <div class="dashboard-widget-value">3</div>
-                            <div class="dashboard-widget-footer">
-                                <span class="text-danger"><i class="bi bi-arrow-down"></i> 2</span> desde la semana pasada
-                            </div>
-                        </div>
-                    </div>
+                    
                     <div class="col-md-3 mb-4">
                         <div class="dashboard-widget">
                             <div class="dashboard-widget-icon">
@@ -87,7 +66,7 @@
                     </div>
                 </div>
                 
-                <!-- Calendario y Eventos -->
+                <!-- Calendario y Eventos 
                 <div class="row mb-4">
                     <div class="col-md-8">
                         <div class="card border-0 shadow-sm">
@@ -130,7 +109,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div>-->
                 
                 <!-- Comunicados Recientes -->
                 <div class="row mb-4">

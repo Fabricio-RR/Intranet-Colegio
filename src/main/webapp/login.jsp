@@ -44,9 +44,8 @@
 <body class="bg-white d-flex flex-column align-items-center justify-content-center min-vh-100">
     <header class="w-100 py-4 custom-header text-white text-center d-flex justify-content-center align-items-center">
         <h1 class="mb-0">COLEGIO PERUANO CHINO DIEZ DE OCTUBRE</h1>
-        <img src="../webapp/assets/img/EscudoCDO.png" alt="Escudo CDO" class="ml-3" style="width: 80px; height: 90px; object-fit: contain;">
+        <img src="../imagenes/EscudoCDO.png" alt="Escudo CDO" class="ml-3" style="width: 80px; height: 90px; object-fit: contain;">
     </header>
-
     <div class="container-fluid d-flex justify-content-center align-items-center flex-grow-1 px-3">
         <div class="bg-white shadow-lg rounded-lg p-4 w-100" style="max-width: 400px;">
             <h2 class="text-center text-muted mb-2">Ingresa tus datos para</h2>

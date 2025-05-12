@@ -65,7 +65,7 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Sidebar -->
-            <jsp:include page="sidebar.jsp" />
+            
             
             <!-- Main content -->
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
@@ -76,9 +76,7 @@
                             <button type="button" class="btn btn-sm btn-outline-secondary" onclick="window.print()">
                                 <i class="bi bi-printer"></i> Imprimir
                             </button>
-                            <button type="button" class="btn btn-sm btn-outline-secondary" id="btnExportar">
-                                <i class="bi bi-download"></i> Exportar
-                            </button>
+                            
                         </div>
                     </div>
                 </div>
