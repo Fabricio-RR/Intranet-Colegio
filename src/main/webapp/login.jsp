@@ -1,11 +1,12 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="utf-8"/>
     <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
     <title>Inicio de Sesión</title>
-    <link rel="icon" href=".../assets/img/EscudoCDO.png" type="image/png">
+    <link rel="icon" href="../webapp/assets/img/EscudoCDO.png" type="image/png">
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
     <style>
@@ -43,7 +44,7 @@
 <body class="bg-white d-flex flex-column align-items-center justify-content-center min-vh-100">
     <header class="w-100 py-4 custom-header text-white text-center d-flex justify-content-center align-items-center">
         <h1 class="mb-0">COLEGIO PERUANO CHINO DIEZ DE OCTUBRE</h1>
-        <img src="../imagenes/EscudoCDO.png" alt="Escudo CDO" class="ml-3" style="width: 80px; height: 90px; object-fit: contain;">
+        <img src="../webapp/assets/img/EscudoCDO.png" alt="Escudo CDO" class="ml-3" style="width: 80px; height: 90px; object-fit: contain;">
     </header>
 
     <div class="container-fluid d-flex justify-content-center align-items-center flex-grow-1 px-3">
