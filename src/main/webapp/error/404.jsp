@@ -52,7 +52,7 @@
 <body>
     <div class="container">
         <div class="error-container">
-            <img src="../assets/img/EscudoCDO.png" alt="Escudo CDO" class="error-image">
+            <img src="../assets/img/EscudoCDO.png" alt="Escudo CDO" class="ml-3" style="width: 100px; height: 150px; object-fit: contain;">
             <h1 class="error-code">404</h1>
             <h2 class="error-message">Página no encontrada</h2>
             <p class="error-description">

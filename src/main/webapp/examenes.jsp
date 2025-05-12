@@ -66,7 +66,7 @@
             <!-- Sidebar (mismo que en dashboard.jsp) -->
             <nav id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-dark sidebar collapse">
                 <!-- Contenido del sidebar -->
-                <jsp:include page="sidebar.jsp" />
+                
             </nav>
             
             <!-- Main content -->

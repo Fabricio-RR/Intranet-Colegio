@@ -5,7 +5,7 @@
     <div class="position-sticky pt-3">
         <!-- Logo y nombre del colegio -->
         <div class="sidebar-logo">
-            <img src="assets/img/EscudoCDO.png" alt="Escudo CDO">
+            <img src="../assets/img/EscudoCDO.png" alt="Escudo CDO">
             <h5>Colegio Peruano Chino<br>Diez de Octubre</h5>
         </div>
         

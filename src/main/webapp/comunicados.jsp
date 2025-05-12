@@ -45,7 +45,7 @@
             -webkit-box-orient: vertical;
         }
         .filter-section {
-            background-color: #f8f9fa;
+            background-color: #f8f9fa;  
             border-radius: 0.5rem;
             padding: 1rem;
             margin-bottom: 1.5rem;
@@ -56,7 +56,7 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Sidebar -->
-            <jsp:include page="sidebar.jsp" />
+            
             
             <!-- Main content -->
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">

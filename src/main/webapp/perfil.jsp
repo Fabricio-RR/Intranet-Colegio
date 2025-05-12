@@ -64,7 +64,7 @@
     <div class="container-fluid">
         <div class="row">
             <!-- Sidebar -->
-            <jsp:include page="sidebar.jsp" />
+            
             
             <!-- Main content -->
             <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
@@ -157,57 +157,6 @@
                                     <button type="submit" class="btn btn-primary">Guardar Preferencias</button>
                                 </form>
                             </div>
-                        </div>
-                    </div>
-                </div>
-                
-                <!-- Historial de actividad -->
-                <div class="card border-0 shadow-sm profile-section">
-                    <div class="card-body">
-                        <h3 class="profile-section-title">Historial de Actividad</h3>
-                        <div class="table-responsive">
-                            <table class="table table-hover">
-                                <thead>
-                                    <tr>
-                                        <th>Fecha</th>
-                                        <th>Actividad</th>
-                                        <th>Dirección IP</th>
-                                        <th>Dispositivo</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>10/05/2023 08:45</td>
-                                        <td>Inicio de sesión</td>
-                                        <td>192.168.1.1</td>
-                                        <td>Chrome en Windows</td>
-                                    </tr>
-                                    <tr>
-                                        <td>09/05/2023 15:30</td>
-                                        <td>Cambio de contraseña</td>
-                                        <td>192.168.1.1</td>
-                                        <td>Chrome en Windows</td>
-                                    </tr>
-                                    <tr>
-                                        <td>09/05/2023 14:20</td>
-                                        <td>Actualización de perfil</td>
-                                        <td>192.168.1.1</td>
-                                        <td>Chrome en Windows</td>
-                                    </tr>
-                                    <tr>
-                                        <td>08/05/2023 09:15</td>
-                                        <td>Inicio de sesión</td>
-                                        <td>192.168.1.1</td>
-                                        <td>Chrome en Windows</td>
-                                    </tr>
-                                    <tr>
-                                        <td>05/05/2023 10:30</td>
-                                        <td>Inicio de sesión</td>
-                                        <td>192.168.1.1</td>
-                                        <td>Chrome en Windows</td>
-                                    </tr>
-                                </tbody>
-                            </table>
                         </div>
                     </div>
                 </div>
